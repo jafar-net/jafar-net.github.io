@@ -1,0 +1,160 @@
+{
+  "main": {
+    "name": "Ben Mosley",
+    "occupation": "Full Stack Software Developer",
+    "description": "" ,
+    "image": "profilepic.jpg",
+    "bio": "After getting my Bachelor's in Communication from the University of Tennessee Chattanooga and realizing that industry was not for me, I decided to start to seriously pursue my brewing passion for programming and have already learned so much in my short time at NSS and can't wait to explore more of the exciting world of software development!",
+    "contactmessage": "Feel free to Email, Call, or Text with any additional questions!",
+    "email": "bmosley1132@gmail.com",
+    "phone": "931-209-7831",
+    "address": {
+      "street": "",
+      "city": "Chattanooga",
+      "state": "Tennessee",
+      "zip": "37404"
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1pZx7Sp_fry_3_SmSNuCM9HCljSv4DFuj/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ben-mosley/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/jafar-net",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Nashville Software School",
+        "degree": "Full Stack Software Development",
+        "graduated": "2021-2022"
+      },
+      {
+        "school": "University of Tennessee at Chattanooga",
+        "degree": "Bachelor of Arts, Major in Communication",
+        "graduated": "2018-2020"
+      },
+      {
+        "school": "Middle Tennessee State University",
+        "degree": "Audio Production",
+        "graduated": "2017-2018"
+      },
+      {
+        "school": "Nashville State Community College",
+        "degree": "Associates Degree in Business",
+        "graduated": "2015-2017"
+      }
+    ],
+    "work": [
+      {
+        "company": "Nashville Software School",
+        "title": "Full Stack Software Developer",
+        "years": "2021-2022",
+        "description": "The first three months consisted of group and individual work on projects on the client side that utilized HTML, CSS, Javascript, React, and JSON. The last three months consisted of learning the server side with a focus on C# and .NET."
+      },
+      {
+        "company": "Publix Super Market",
+        "title": "Deli Clerk",
+        "years": "2019-",
+        "description": "Provided customers with a variety of requested foods. Stocked shelves, organized department, and cleaned various areas."
+      },
+      {
+        "company": "Axis Security Inc.",
+        "title": "Secuirty Guard/Event Staff",
+        "years": "2016-2019",
+        "description": "Each event and venue had its own rules and requirements so I was always learning and adapting to new things. I worked a variety of positions including ticket scanning, crowd control, ushering, security and bag checks, assisting patrons, and many other tasks based on whatever positions needed to be covered."
+      }
+    ],
+    "portfolio": {
+    "projects": [
+      {
+        "title": "Marvel Cinematic Comic Origins",
+        "category": "",
+        "image": "mcco.png",
+        "url": "https://github.com/jafar-net/mcco"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  },
+    "skills": [
+      {
+        "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "C#",
+        "level": "91%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "85%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "SQL",
+        "level": "85%"
+      },
+      {
+        "name": "Figma",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+
+      },
+      {
+
+      },
+      {
+
+      },
+      {
+
+      },
+      {
+
+      }
+    ]
+  }
+}
